@@ -15,7 +15,7 @@ This internship allows participants to build real-world projects using Python wh
 
 I completed the following tasks from the provided task list:
 
-### ✅ Task 1 — Hangman Game
+### ✅ Task 1 — Hangman Game (HG.py)
 
 A simple **text-based Hangman game** where the player guesses a hidden word one letter at a time.
 
@@ -29,7 +29,7 @@ A simple **text-based Hangman game** where the player guesses a hidden word one 
 
 ---
 
-### ✅ Task 2 — Stock Portfolio Tracker
+### ✅ Task 2 — Stock Portfolio Tracker (portfolio.py)
 
 A basic **stock portfolio tracker** that calculates total investment based on user input and predefined stock prices.
 
@@ -44,7 +44,7 @@ A basic **stock portfolio tracker** that calculates total investment based on us
 
 ---
 
-### ✅ Task 3 — Task Automation Script *(Optional Example)*
+### ✅ Task 3 — Task Automation Script *(Optional Example)* (automation.py)
 
 An automation script that performs a small repetitive task, such as:
 
@@ -54,16 +54,6 @@ An automation script that performs a small repetitive task, such as:
 
 **Concepts Used:** `os`, `shutil`, `re`, `requests`, `file handling`.
 
----
-
-### ✅ Task 4 — Basic Chatbot
-
-A simple **rule-based chatbot** that responds to basic user inputs.
-
-**Features:**
-
-* Predefined responses for phrases like “hello”, “how are you”, and “bye”.
-* Continuous conversation loop until the user exits.
 
 **Concepts Used:** `functions`, `loops`, `if-elif`, `input/output`.
 
